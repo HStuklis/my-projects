@@ -1,4 +1,6 @@
 # my-projects
+If you are having trouble viewing my Jupyter Notebooks please view them through [nbviewer](https://nbviewer.jupyter.org/).
+
 This is where I will list my unsorted side projects. 
 I will use this directory as a brain-storming ground for further projects.
 If one of these projects develops into something more sophisticated I will separate it into its own directory.
