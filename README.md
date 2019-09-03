@@ -8,9 +8,11 @@ In my write-ups I tend to use "we" when refering to steps taken in a problem sol
 i.e. We can now do this ... etc. Just think of "we" refering to you and I (the reader and I).
 
 ## current-projects
-- ["Housing Prices Project for Big Data & Analysis"](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
-Ask a home buyer to describe their dream house, and they probably won't begin with the height of the basement ceiling or the proximity to an east-west railroad. But this playground competition's dataset proves that much more influences price negotiations than the number of bedrooms or a white-picket fence.
+-
 
 ## finished-projects
 - "Modelling herb runs in Old School Runescape" 
 I intend to use this as a refresher/intro project for the purposes of learning Python, collecting data and completing some exploratory data analysis.
+
+- ["Housing Prices Project for Big Data & Analysis"](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+Ask a home buyer to describe their dream house, and they probably won't begin with the height of the basement ceiling or the proximity to an east-west railroad. But this playground competition's dataset proves that much more influences price negotiations than the number of bedrooms or a white-picket fence.
