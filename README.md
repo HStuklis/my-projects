@@ -8,7 +8,9 @@ In my write-ups I tend to use "we" when refering to steps taken in a problem sol
 i.e. We can now do this ... etc. Just think of "we" refering to you and I (the reader and I).
 
 ## current-projects
--
+- ["Plant Seedling Image Classification for Big Data & Analysis"](https://www.kaggle.com/c/plant-seedlings-classification/overview)
+Can you differentiate a weed from a crop seedling?
+The ability to do so effectively can mean better crop yields and better stewardship of the environment. The Aarhus University Signal Processing group, in collaboration with University of Southern Denmark, has recently released a dataset containing images of approximately 960 unique plants belonging to 12 species at several growth stages. We're hosting this dataset as a Kaggle competition in order to give it wider exposure, to give the community an opportunity to experiment with different image recognition techniques, as well to provide a place to cross-pollenate ideas.
 
 ## finished-projects
 - "Modelling herb runs in Old School Runescape" 
